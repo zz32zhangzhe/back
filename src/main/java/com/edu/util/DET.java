@@ -69,6 +69,7 @@ public class DET {
 
     public static void main(String[] args) {
         System.out.println(encode("root"));
+
     }
 
 }
